@@ -1,4 +1,5 @@
-# Contact Book -- Python Mini Project
+#Contact Record Manager
+
 
 A simple command-line **Contact Book** application built using Python.
 This mini-project allows you to **add**, **view**, **search**, and
